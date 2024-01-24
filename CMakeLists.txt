@@ -15,7 +15,7 @@ find_package(rosidl_default_generators REQUIRED)
 # find_package(<dependency> REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
-  'msg/MyTopic.msg'
+  "msg/MyTopic.msg"
   DEPENDENCIES builtin_interfaces
 )
 if(BUILD_TESTING)
@@ -30,5 +30,5 @@ if(BUILD_TESTING)
   ament_lint_auto_find_test_dependencies()
 endif()
 
-ament_export_dependencies_(rosidl_default_runtime)
+ament_export_dependencies(rosidl_default_runtime)
 ament_package()
