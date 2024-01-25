@@ -15,7 +15,9 @@ find_package(rosidl_default_generators REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/MyTopic.msg"
+  "msg/ArithmeticArgument.msg"
   "srv/Mysrv.srv"
+  "srv/ArithmeticOperator.srv"
   "action/Fibonacci.action"
   DEPENDENCIES builtin_interfaces
 )
