@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240126-0153-Experimental"
+	Name="yjm-virtual-machine"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="yjm-virtual-machine"
+	OSRelease="6.5.0-14-generic"
+	OSVersion="#14~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Nov 20 18:15:30 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="2"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="3219"
+	TotalPhysicalMemory="3870"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="1992"
+	>
+	<Testing>
+		<StartDateTime>Jan 26 10:53 KST</StartDateTime>
+		<StartTestTime>1706234010</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jan 26 10:53 KST</EndDateTime>
+		<EndTestTime>1706234010</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

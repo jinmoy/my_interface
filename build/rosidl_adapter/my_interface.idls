@@ -1,0 +1,6 @@
+/home/yjm/colcon_ws/src/my_interface/build/rosidl_adapter/my_interface:msg/MyTopic.idl
+/home/yjm/colcon_ws/src/my_interface/build/rosidl_adapter/my_interface:msg/ArithmeticArgument.idl
+/home/yjm/colcon_ws/src/my_interface/build/rosidl_adapter/my_interface:srv/Mysrv.idl
+/home/yjm/colcon_ws/src/my_interface/build/rosidl_adapter/my_interface:srv/ArithmeticOperator.idl
+/home/yjm/colcon_ws/src/my_interface/build/rosidl_adapter/my_interface:action/Fibonacci.idl
+/home/yjm/colcon_ws/src/my_interface/build/rosidl_adapter/my_interface:action/ArithmeticChecker.idl

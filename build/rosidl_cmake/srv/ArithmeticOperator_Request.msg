@@ -4,5 +4,3 @@ int8 MULTIPLY = 3
 int8 DIVIDE = 4
 
 int8 arithmetic_operator
----
-float32 arithmetic_result
